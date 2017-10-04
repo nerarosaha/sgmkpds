@@ -1,5 +1,21 @@
 @media (min-width : 1200px){}
 @media (max-width : 1200px) and (min-width: 991px){}
+
+@media (min-width : 768px){
+	[data-display='hotel'] .info-tour h4 a {		
+		min-height: 56px;
+		display: block;
+	}
+	
+	[data-display='tour'] .info-tour h4 a {
+		min-height: 60px;
+		display: block;
+	}
+}
+@media (min-width : 320px){
+	
+}
+
 @media (min-width : 768px) and (max-width: 992px){
 	.list-news a img{width:100%;height:auto}
 	p.noti{display:none}
