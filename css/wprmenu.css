@@ -151,9 +151,7 @@ The top Bar that shows/hides the menu
 
 
 
-body { position: relative!important; }
-
-
+body { position: relative!important; overflow-x: hidden;}
 
 
 #wprmenu_menu.top {
