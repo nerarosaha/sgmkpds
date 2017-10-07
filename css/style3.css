@@ -8,7 +8,7 @@
 		overflow: hidden;
 	}
 	
-	[data-display='tour'] .info-tour h4 a, .related .info-tour h4 a{
+	[data-display='tour'] .info-tour h4 a, .related .info-tour h4 a, .list-tour .info-tour h4 a{
 		height: 60px;
 		display: block;
 		overflow: hidden;
