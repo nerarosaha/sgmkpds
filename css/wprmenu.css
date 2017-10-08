@@ -3,11 +3,11 @@ Icons from icon font  - setup
  */
 @font-face {
 	font-family: 'wprmenu';
-	src:url('../fonts/wprmenu.eot');
-	src:url('../fonts/wprmenu.eot?#iefix') format('embedded-opentype'),
-		url('../fonts/wprmenu.woff') format('woff'),
-		url('../fonts/wprmenu.ttf') format('truetype'),
-		url('../fonts/wprmenu.svg#wprmenu') format('svg');
+	src:url('./fonts/wprmenu.eot');
+	src:url('./fonts/wprmenu.eot?#iefix') format('embedded-opentype'),
+		url('./fonts/wprmenu.woff') format('woff'),
+		url('./fonts/wprmenu.ttf') format('truetype'),
+		url('./fonts/wprmenu.svg#wprmenu') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
