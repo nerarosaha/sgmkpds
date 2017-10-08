@@ -700,7 +700,7 @@ span.to-top {
     font-weight: 600;
 }
 
-.info-top-f>ul>li>a {
+.info-top-f ul.row>li>a {
     display: block;
     font-size: 13px;
     text-transform: uppercase;
@@ -709,13 +709,13 @@ span.to-top {
     color: #272727;
 }
 
-.info-top-f>ul>li>ul>li {
+.info-top-f ul.row>li>ul>li {
     margin-bottom: 6px;
 }
 
-.info-top-f>ul>li>ul>li>a:before {content: '';width: 5px;height: 5px;display: inline-block;background: #28c3ff;margin-right: 5px;margin-bottom: 2px;}
+.info-top-f ul.row>li>ul>li>a:before {content: '';width: 5px;height: 5px;display: inline-block;background: #28c3ff;margin-right: 5px;margin-bottom: 2px;}
 
-.info-top-f>ul>li>ul>li:hover a {
+.info-top-f ul.row>li>ul>li:hover a {
     color: #0086b9;
 }
 
